@@ -489,3 +489,5 @@ const moons = {
       "Images of Kore from the Canada-France-Hawaii Telescope on 26 February 2003",
   },
 };
+
+export default moons;

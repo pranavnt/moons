@@ -7,10 +7,55 @@ body {
 }
 
 a {
-  color: inherit;
+  color: black;
   text-decoration: none;
+}
+
+a:hover {
+  color: #039be5;
 }
 
 * {
   box-sizing: border-box;
+}
+
+ul {
+  list-style: circle;
+}
+
+body {
+  background-color: #fafaeb;
+  font-size: large;
+  line-height: 150%;
+}
+
+img {
+  width: 100%;
+  border-radius: 2px;
+  border: 2px solid #1c1716;
+  box-shadow: 5px 5px 41px 11px rgba(0, 0, 0, 0.4);
+}
+
+figure {
+  margin: 0 0 3vh;
+}
+
+figure > figcaption {
+  font-size: 1rem;
+  text-align: right;
+  font-style: italic;
+  opacity: 0.6;
+}
+
+:root {
+  --telescope-highlight: #95abe655;
+  --telescope-highlight-hover: #95abe699;
+  --telescope-text-color: #1f2021;
+}
+
+@media (max-width: 600px) {
+  .container {
+    margin-left: "2%" !important;
+    margin-right: "2%" !important;
+  }
 }

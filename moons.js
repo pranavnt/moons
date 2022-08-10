@@ -71,7 +71,7 @@ const moons = {
     name: "Leda",
     description:
       "Leda /ˈliːdə/, also known as Jupiter XIII, is a prograde irregular satellite of Jupiter. It was discovered by Charles T. Kowal at the Mount Palomar Observatory on September 14, 1974, after three nights' worth of photographic plates had been taken (September 11 through 13; Leda appears on all of them).[1][9] It was named after Leda, who was raped[10] by Zeus, the Greek equivalent of Jupiter (who came to her in the form of a swan). Kowal suggested the name and the IAU endorsed it in 1975.[11]  Leda belongs to the Himalia group, seven moons orbiting between 11 and 13 Gm from Jupiter at an inclination of about 27.5°.[12] The orbital elements given here are as of January 2021, but they are continuously changing due to solar and planetary perturbations.",
-    img: "httpcs://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Leda_WISE-W3.jpg/340px-Leda_WISE-W3.jpg",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Leda_WISE-W3.jpg/340px-Leda_WISE-W3.jpg",
     caption:
       "Single-exposure image of Leda by the Wide-field Infrared Survey Explorer (WISE) spacecraft in 2010",
   },
